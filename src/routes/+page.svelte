@@ -2,8 +2,8 @@
   import ThemeBlob from '../components/themeBlob.svelte';
 </script>
 
-<ThemeBlob themeName="Pine Forest Dark" textColor="#03857f" bgColor="#0a0302" />
-<ThemeBlob themeName="Pine Forest Light" textColor="#0a0302" bgColor="#03857f" />
+<ThemeBlob themeName="Pine Forest Dark" themeSlug="pine-forest-d" />
+<ThemeBlob themeName="Pine Forest Light" themeSlug="pine-forest" />
 
 <!--
     Pine Forest
