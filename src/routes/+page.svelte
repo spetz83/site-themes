@@ -4,6 +4,9 @@
 
 <ThemeBlob themeName="Pine Forest Dark" themeSlug="pine-forest-d" />
 <ThemeBlob themeName="Pine Forest Light" themeSlug="pine-forest" />
+<ThemeBlob themeName="Pine Forest Light" themeSlug="pine-forest" />
+<ThemeBlob themeName="Pine Forest Light" themeSlug="pine-forest" />
+<ThemeBlob themeName="Pine Forest Light" themeSlug="pine-forest" />
 
 <!--
     Pine Forest
